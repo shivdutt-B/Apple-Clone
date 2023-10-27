@@ -123,7 +123,6 @@ nav .nav-list .nav-item {
   font-weight:700; 
 }
 .bag-stuff{
-  border:1px solid blue; 
   margin-bottom:20px;
 }
 .bag-stuff p{
@@ -331,9 +330,6 @@ span.material-symbols-outlined{
   fill: white;
 }
 
-
-
-
 .cash-off {
   padding: 8px 5px;
   
@@ -352,9 +348,6 @@ span.material-symbols-outlined{
 .cash-off a i {
   font-size: 8px;
 }
-
-
-
 
 .iphone-14-pro-learn-buy a:hover,
 .iphone-14-wonder-learn-buy a:hover,
@@ -421,8 +414,6 @@ span.material-symbols-outlined{
   font-size: 14px;
 }
 
-
-
 .iphone-14-wonder-container {
   background-image: url("/Apple clone media/apple-wonder.jpg");
   color: var(--text-color);
@@ -456,15 +447,6 @@ span.material-symbols-outlined{
   text-decoration: none;
   color: var(--link-color);
 }
-
-/* .iphone-14-wonder-learn-buy a:first-child {
-  margin-right: 10px;
-} */
-
-/* .iphone-14-wonder-learn-buy a:last-child {
-  margin-left: 10px;
-} */
-
 
 .apple-watch {
   background-image: url("/Apple clone media/series-8-watch.jpg");
@@ -508,16 +490,6 @@ span.material-symbols-outlined{
   color: var(--link-color);
 }
 
-/* .apple-watch-learn-buy a:first-child {
-  margin-right: 20px;
-} */
-
-/* .apple-watch-learn-buy a:last-child {
-  margin-left: 10px;
-} */
-
-
-
 .apple-product-cards {
   display: grid;
   grid-template-columns: auto auto;
@@ -552,8 +524,6 @@ span.material-symbols-outlined{
   text-decoration: underline solid 2px var(--link-color);
 }
 
-
-
 .apple-product-cards .hand-iphone {
   
   background-image: url("/Apple clone media/iphone-2-hands.jpg");
@@ -575,7 +545,6 @@ span.material-symbols-outlined{
 .hand-iphone-learn-buy {
   text-align: center;
 }
-
 
 .rainbow {
   background-image: url("/Apple clone media/rainbow.jpg");
@@ -601,8 +570,6 @@ span.material-symbols-outlined{
   padding: 20px 0 0 0;
 }
 
-
-
 .editing-in-ipad {
   background-image: url("/Apple clone media/vidoe-edit-in-ipad.jpg");
   background-position: center;
@@ -616,7 +583,6 @@ span.material-symbols-outlined{
   text-align: center;
 }
 
-
 .editing-in-ipad-headings h2 {
   color: white;
 }
@@ -625,8 +591,6 @@ span.material-symbols-outlined{
   color: gray;
   padding-bottom: 15px;
 }
-
-
 
 .piano-in-ipad {
   color: white;
@@ -638,12 +602,10 @@ span.material-symbols-outlined{
   padding-top: 40px;
 }
 
-
 .piano-in-pad-headings p {
   color: gray;
   padding-bottom: 10px;
 }
-
 
 .ipod {
   text-align: center;
@@ -658,7 +620,6 @@ span.material-symbols-outlined{
   color: var(--text-color);
 }
 
-
 .two-mac {
   text-align: center;
   background-image: url("/Apple clone Media/mac-bak.jpg");
@@ -671,8 +632,6 @@ span.material-symbols-outlined{
 .tow-mac-headings h2 {
   color:white;
 }
-
-
 
 .outer-footer {
   background: var(--footer-bg-color);
@@ -788,10 +747,6 @@ footer hr.first-hr {
 }
 
 @media only screen and (max-width: 850px) {
-  
-  nav {
-    
-  }
   .apple {
     margin-left: 10px;
   }
@@ -811,15 +766,10 @@ footer hr.first-hr {
   .ham-button {
     display: block;
   }
-  /* .none-for-large {
-    display: block ;
-    border:1px solid blue;
-  } */
 
   .disable-for-responsive {
     display: none !important;
   }
-
 
   .nav-link {
     font-size: 25px;
@@ -847,8 +797,6 @@ footer hr.first-hr {
   .collapsed-bag-final,.collapsed-search-final{
     height:100dvh;
   }
-  
-
   
   .iphone-14-pro-container {
     background-image: url("/Apple clone media/iphone-stack.jpg");
@@ -878,7 +826,6 @@ footer hr.first-hr {
     padding-top: 10px !important;
   }
 
-  
   footer {
     padding: 20px;
   }
@@ -922,7 +869,6 @@ footer hr.first-hr {
 
   .footer-opt > div {
     margin: 0;
-    
   }
 
   .second-hr {
@@ -930,13 +876,11 @@ footer hr.first-hr {
   }
 
   .copy-right-info {
-    
     margin-top: 15px;
   }
 
   .copy-right-policy {
     display: flex;
-    
     margin-top: 15px;
     flex-direction: column;
   }
@@ -946,12 +890,10 @@ footer hr.first-hr {
   }
 
   .country-small {
-    
     display: block;
   }
 
   .country-large {
     display: none;
-    
   }
 }
