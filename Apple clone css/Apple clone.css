@@ -622,7 +622,8 @@ span.material-symbols-outlined{
 
 .two-mac {
   text-align: center;
-  background-image: url("/Apple clone Media/mac-bak.jpg");
+/*   background-image: url("/Apple clone Media/mac-bak.jpg"); */
+  background-image: url("/Apple clone media/mac-bak.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
