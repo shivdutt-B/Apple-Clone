@@ -1,10 +1,6 @@
 # Apple Homepage Clone
-
-======================================================================================================================================
-
 A clone of Apple's homepage for practice and learning purposes.
 
-======================================================================================================================================
 
 # Screenshot
 ![apple-clone-1](https://github.com/shivdutt-B/Apple-Clone/assets/136951010/c97b9b48-1145-4b94-9421-973264f1610f)
@@ -15,30 +11,25 @@ A clone of Apple's homepage for practice and learning purposes.
 ![apple-clone-6](https://github.com/shivdutt-B/Apple-Clone/assets/136951010/5cee6060-6f00-4c6f-b160-e5e812d30eb5)
 ![apple-clone-7](https://github.com/shivdutt-B/Apple-Clone/assets/136951010/56d7b170-520a-4d00-9a4c-5707386bfff2)
 
-======================================================================================================================================
 
 # Tech
 - html
 - css
 - javascript
 
- ======================================================================================================================================
 
 # Description
 This project is a clone of Apple's homepage, created to enhance web development skills
 
-======================================================================================================================================
 
 # Features
 - Faithful reproduction of the Apple homepage layout.
 - Responsive design for various screen sizes.
 
-======================================================================================================================================
 
 # Clone the repository
 git clone https://github.com/shivdutt-B/Apple-Clone.git
 
-======================================================================================================================================
 
 # Acknowledgements
 Thanks to Apple for the design inspiration.
