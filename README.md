@@ -12,7 +12,7 @@ A clone of Apple's homepage for practice and learning purposes.
 ![apple-clone-7](https://github.com/shivdutt-B/Apple-Clone/assets/136951010/56d7b170-520a-4d00-9a4c-5707386bfff2)
 
 
-## Tech
+## Technologies Used
 - html
 - css
 - javascript
