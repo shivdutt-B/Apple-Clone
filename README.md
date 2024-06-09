@@ -16,7 +16,6 @@ A clone of Apple's homepage for practice and learning purposes.
 - html
 - css
 - javascript
-- ![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
 
 
 ## Description
